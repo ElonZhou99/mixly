@@ -1,0 +1,26 @@
+ <!--
+type="company" 
+block="block/fly_left.js" 
+generator="generator/fly_left.js" 
+language="language/fly_left/"
+examples="examples/fly_left"
+media="media/fly_left"
+pin="companypin/fly_left"
+lib="fly_left"
+hardware="hardware/arduino" 
+-->
+<!-- 
+Author:
+Date:
+E-mail:
+-->
+<script type="text/javascript" src="../../blocks/company/fly_left.js"></script>
+<script type="text/javascript" src="../../generators/arduino/company/fly_left.js"></script>
+<category id="mixly_test" name="左飞" colour="0">
+<block type="fly_left">
+</block>
+ </category>
+
+
+
+

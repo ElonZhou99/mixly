@@ -1,0 +1,26 @@
+ <!--
+type="company" 
+block="block/sendHeartBeart.js" 
+generator="generator/sendHeartBeart.js" 
+language="language/sendHeartBeart/"
+examples="examples/sendHeartBeart"
+media="media/sendHeartBeart"
+pin="companypin/sendHeartBeart"
+lib="sendHeartBeart"
+hardware="hardware/arduino" 
+-->
+<!-- 
+Author:
+Date:
+E-mail:
+-->
+<script type="text/javascript" src="../../blocks/company/sendHeartBeart.js"></script>
+<script type="text/javascript" src="../../generators/arduino/company/sendHeartBeart.js"></script>
+<category id="mixly_test" name="初始化" colour="0">
+<block type="begin">
+</block>
+ </category>
+
+
+
+

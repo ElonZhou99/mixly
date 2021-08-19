@@ -1,0 +1,26 @@
+ <!--
+type="company" 
+block="block/takeoff.js" 
+generator="generator/takeoff.js" 
+language="language/takeoff/"
+examples="examples/takeoff"
+media="media/takeoff"
+pin="companypin/takeoff"
+lib="takeoff"
+hardware="hardware/arduino" 
+-->
+<!-- 
+Author:
+Date:
+E-mail:
+-->
+<script type="text/javascript" src="../../blocks/company/takeoff.js"></script>
+<script type="text/javascript" src="../../generators/arduino/company/takeoff.js"></script>
+<category id="mixly_test" name="起飞" colour="0">
+<block type="takeoff">
+</block>
+</category>
+
+
+
+

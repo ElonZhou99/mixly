@@ -1,0 +1,26 @@
+ <!--
+type="company" 
+block="block/fly_back.js" 
+generator="generator/fly_back.js" 
+language="language/fly_back/"
+examples="examples/fly_back"
+media="media/fly_back"
+pin="companypin/fly_back"
+lib="fly_back"
+hardware="hardware/arduino" 
+-->
+<!-- 
+Author:
+Date:
+E-mail:
+-->
+<script type="text/javascript" src="../../blocks/company/fly_back.js"></script>
+<script type="text/javascript" src="../../generators/arduino/company/fly_back.js"></script>
+<category id="mixly_test" name="后飞" colour="0">
+	<block type="fly_back">
+	</block>
+</category>
+
+
+
+

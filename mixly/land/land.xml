@@ -1,0 +1,24 @@
+ <!--
+type="company" 
+block="block/land.js" 
+generator="generator/land.js" 
+language="language/land/"
+examples="examples/land"
+media="media/land"
+pin="companypin/land"
+lib="land"
+hardware="hardware/arduino" 
+-->
+<!-- 
+Author:
+Date:
+E-mail:
+-->
+<script type="text/javascript" src="../../blocks/company/land.js"></script>
+<script type="text/javascript" src="../../generators/arduino/company/land.js"></script>
+<category id="mixly_test" name="降落" colour="0">
+	<block type="land">
+	</block>
+</category>
+
+

@@ -1,0 +1,26 @@
+ <!--
+type="company" 
+block="block/armed.js" 
+generator="generator/armed.js" 
+language="language/armed/"
+examples="examples/armed"
+media="media/armed"
+pin="companypin/armed"
+lib="armed"
+hardware="hardware/arduino" 
+-->
+<!-- 
+Author:
+Date:
+E-mail:
+-->
+<script type="text/javascript" src="../../blocks/company/armed.js"></script>
+<script type="text/javascript" src="../../generators/arduino/company/armed.js"></script>
+<category id="mixly_test" name="解锁" colour="0">
+	<block type="armed">
+	</block>
+</category>
+
+
+
+

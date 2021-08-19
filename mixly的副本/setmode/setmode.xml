@@ -1,0 +1,26 @@
+ <!--
+type="company" 
+block="block/setmode.js" 
+generator="generator/setmode.js" 
+language="language/setmode/"
+examples="examples/setmode"
+media="media/setmode"
+pin="companypin/setmode"
+lib="setmode"
+hardware="hardware/arduino" 
+-->
+<!-- 
+Author:
+Date:
+E-mail:
+-->
+<script type="text/javascript" src="../../blocks/company/setmode.js"></script>
+<script type="text/javascript" src="../../generators/arduino/company/setmode.js"></script>
+<category id="mixly_test" name="设置飞行模式" colour="0">
+<block type="setmode">
+</block>
+ </category>
+
+
+
+
